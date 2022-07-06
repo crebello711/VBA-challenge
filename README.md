@@ -1,4 +1,4 @@
-## The VBA of Wall Street
+## The VBA Challenge of Wall Street
 
 ## Background
 
@@ -7,7 +7,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Files
 
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+* Input File : [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate report.
 
 ### Stock Market Analyst
 
@@ -30,13 +30,5 @@ A script that loops through all the stocks for one year and outputs the followin
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 
 Make the appropriate adjustments to your VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
-
-## Other Considerations
-
-* Use the sheet `alphabetical_testing.xlsx` while developing your code. This data set is smaller and will allow you to test faster. Your code should run on this file in less than 3 to 5 minutes.
-
-* Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with one click of a button.
-
-* Some assignments, like this one, contain a bonus. It is possible to achieve proficiency for this assignment without completing the bonus. The bonus is an opportunity to further develop your skills and be rewarded extra points for doing so.
 
 
