@@ -26,4 +26,5 @@ Add functionality to your script to return the stock with the "Greatest % increa
 
 Make the appropriate adjustments to your VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
 
-
+## Library Used
+mscorlib.dll library
